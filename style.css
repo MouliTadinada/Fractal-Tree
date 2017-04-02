@@ -5,5 +5,10 @@ body {
 
 p {
 	text-align: center;
-	color: red;
+	color: aliceblue;
+}
+
+slider {
+	border-color: bisque;
+	resize: horizontal;
 }
