@@ -16,7 +16,7 @@ function setup() {
 }
 
 function draw() {
-	background(51);
+	background(51, 90);
 	translate(width / 2, height);
 	angle = slider.value();
 	p1.html("Angle :" + angle);
